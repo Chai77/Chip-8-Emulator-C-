@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/chaitanya/Documents/Projects/Emulators/Chip-8/Debug",
+  "command": "/usr/bin/c++  -I/home/chaitanya/Documents/Projects/Emulators/Chip-8/include -g -o CMakeFiles/chip-8.dir/src/Chip8.cpp.o -c /home/chaitanya/Documents/Projects/Emulators/Chip-8/src/Chip8.cpp",
+  "file": "/home/chaitanya/Documents/Projects/Emulators/Chip-8/src/Chip8.cpp"
+},
+{
+  "directory": "/home/chaitanya/Documents/Projects/Emulators/Chip-8/Debug",
+  "command": "/usr/bin/c++  -I/home/chaitanya/Documents/Projects/Emulators/Chip-8/include -g -o CMakeFiles/chip-8.dir/src/Chip8_Display.cpp.o -c /home/chaitanya/Documents/Projects/Emulators/Chip-8/src/Chip8_Display.cpp",
+  "file": "/home/chaitanya/Documents/Projects/Emulators/Chip-8/src/Chip8_Display.cpp"
+},
+{
+  "directory": "/home/chaitanya/Documents/Projects/Emulators/Chip-8/Debug",
+  "command": "/usr/bin/c++  -I/home/chaitanya/Documents/Projects/Emulators/Chip-8/include -g -o CMakeFiles/chip-8.dir/src/main.cpp.o -c /home/chaitanya/Documents/Projects/Emulators/Chip-8/src/main.cpp",
+  "file": "/home/chaitanya/Documents/Projects/Emulators/Chip-8/src/main.cpp"
+}
+]
